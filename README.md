@@ -8,6 +8,6 @@
 
 #
 
-<h3> ACT3: </h3>
+<h3> ACT3: Phong Model, Multiple Light Focus and integration with Qt interfaces. </h3>
 
 # 
