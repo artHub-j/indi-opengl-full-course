@@ -2,7 +2,7 @@
 
 <h3> ACT1: Basic Transformations in XY axis and shaders </h3>
 
-![image](https://github.com/artHub-j/opengl-training/assets/92806890/196a2d29-26df-45ea-8929-d568f52a3355)
+![image](https://github.com/artHub-j/opengl-training/assets/92806890/196a2d29-26df-45ea-8929-d568f52a3355 = 250x250)
 
 
 # 
