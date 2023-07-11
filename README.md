@@ -1,10 +1,10 @@
 # opengl-training
 
-| Activities Folder | Description |
+| Activities | Description |
 | :---: | :--- |
-| 🗂 Activities/ACT1 | Basic Transformations in XY axis and shaders. |
-| 🗂 Activities/ACT2 | 3D model, Camera Transformations and Euler Angles in XYZ axis. |
-| 🗂 Activities/ACT3 | Phong Model, Multiple Light Focus and integration with Qt interfaces. |
+| 🗂 ACT1 | Basic Transformations in XY axis and shaders. |
+| 🗂 ACT2 | 3D model, Camera Transformations and Euler Angles in XYZ axis. |
+| 🗂 ACT3 | Phong Model, Multiple Light Focus and integration with Qt interfaces. |
 
 | Activity | Result | Interaction Mouse/Keys |
 | :---: | :---: | --- |
