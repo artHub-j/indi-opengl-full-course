@@ -29,9 +29,47 @@
 | <h3> 4 </h3> | <img src="" width="300"/> | <img src="" width="370"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
 
 # How to generate executable
+
+<h3> 1. Installing Qt </h3>
+Check if you already have a version of Qt installed:
+
 ```
-$ cd directory_act_ex/
-$ qmake
-$ make
-$ ./executable_name
+qmake --version
+```
+
+If not, install Qt-5 using the following commands:
+
+```
+sudo apt-get install build-essential
+sudo apt-get install qtcreator
+sudo apt-get install qt5-default
+```
+
+<h3> 2. Check OpenGL and install GLM (OpenGL Mathematics): </h3>
+
+Install and validate that OpenGL is installed correctly in your graphics card's driver:
+
+```
+$ sudo apt install mesa-utils
+$ glxinfo | grep -E "direct rendering|^OpenGL"
+```
+
+Your terminal output should be similar to this:
+
+<img src="https://github.com/artHub-j/opengl-training/assets/92806890/eb73da74-439c-43fe-85e5-06b17a87c1e7" width="500"/>
+
+Then, install cmake (metacompiler), build-essential (package that includes the necessary to develop in C++) <br />
+and libglm-dev (GLM library):
+
+```
+sudo apt-get install cmake build-essential libglm-dev
+```
+
+<h3> 3. Generate executables: </h3> 
+
+```
+cd directory_act_ex/
+qmake
+make
+./executable_name
 ```
