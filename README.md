@@ -29,4 +29,9 @@
 | <h3> 4 </h3> | <img src="" width="300"/> | <img src="" width="370"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
 
 # How to generate executable
-
+```
+$ cd directory_act_ex/
+$ qmake
+$ make
+$ ./executable_name
+```
