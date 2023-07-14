@@ -14,18 +14,18 @@
 
 #
 
-
 | Exams Folder | Year |
 | :---: | :--- |
 | 🗂 Exams/EXAM1 | Examen OpenGL 2018-19 |
 | 🗂 Exams/EXAM2 | Examen OpenGL 2020-21 |
 | 🗂 Exams/EXAM3 | Examen OpenGL 2021-22 |
 
-| Exam | Result | Interaction Mouse/Keys |
-| :---: | :---: | --- |
-| <h3> 1 </h3> | <img src="" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)|
-| <h3> 2 </h3> | <img src="" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)|
-| <h3> 3 </h3> | <img src="" width="370"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
+| Exam | Initial Scene | Result | Interaction Mouse/Keys |
+| :---: | :---: | :---: | --- |
+| <h3> 1 </h3> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/900d9c14-b744-46d1-bc32-ceb78f66c59a" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/b03c962b-55a1-49d4-822d-1a23055d9cd2" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)|
+| <h3> 2 </h3> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/dad9e9a7-e121-4e5a-a3e9-a6d60e0fbda4" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/9e0abff0-a5c5-45f5-a7ab-24d5282eb624" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)|
+| <h3> 3 </h3> | <img src="" width="300"/> | <img src="" width="370"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
+| <h3> 4 </h3> | <img src="" width="300"/> | <img src="" width="370"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
 
 # How to generate executable
 
