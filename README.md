@@ -19,6 +19,7 @@
 | 🗂 Exams/EXAM1 | Examen OpenGL 2018-19 |
 | 🗂 Exams/EXAM2 | Examen OpenGL 2020-21 |
 | 🗂 Exams/EXAM3 | Examen OpenGL 2021-22 |
+| 🗂 Exams/EXAM4 | Examen OpenGL 2022-23 |
 
 | Exam | Initial Scene | Result | Interaction Mouse/Keys |
 | :---: | :---: | :---: | --- |
