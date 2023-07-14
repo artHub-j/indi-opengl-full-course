@@ -28,7 +28,7 @@
 | <h3> 3 </h3> | <img src="" width="300"/> | <img src="" width="370"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
 | <h3> 4 </h3> | <img src="" width="300"/> | <img src="" width="370"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
 
-# How to generate executable
+# Previous steps and generation of executables
 
 <h3> 1. Installing Qt </h3>
 Check if you already have a version of Qt installed:
@@ -50,8 +50,8 @@ sudo apt-get install qt5-default
 Install and validate that OpenGL is installed correctly in your graphics card's driver:
 
 ```
-$ sudo apt install mesa-utils
-$ glxinfo | grep -E "direct rendering|^OpenGL"
+sudo apt install mesa-utils
+glxinfo | grep -E "direct rendering|^OpenGL"
 ```
 
 Your terminal output should be similar to this:
