@@ -45,6 +45,12 @@ sudo apt-get install qtcreator
 sudo apt-get install qt5-default
 ```
 
+If `sudo apt-get install qt5-default` doesen't work, use the following command instead:
+
+```
+sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
+```
+
 <h3> 2. Check OpenGL and install GLM (OpenGL Mathematics): </h3>
 
 Install and validate that OpenGL is installed correctly in your graphics card's driver:
