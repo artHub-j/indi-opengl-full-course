@@ -21,17 +21,19 @@
 | 🗂 Exams/EXAM2 | Examen OpenGL 2020-21 | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/Exams/EXAM2%20(Examen%20OpenGL%202020-21))|
 | 🗂 Exams/EXAM3 | Examen OpenGL 2021-22 | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/Exams/EXAM3%20(Examen%20OpenGL%202021-22))|
 | 🗂 Exams/EXAM4 | Examen OpenGL 2022-23 | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/Exams/EXAM4%20(Examen%20OpenGL%202022-23))|
+| 🗂 Exams/EXAM5 - BONUS | Examen OpenGL 2023-24 | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/Exams/EXAM5%20(Examen%20OpenGL%202023-24%20-%20BONUS))|
 
 | Exam | Output | Interaction Mouse/Keys |
 | :---: | :---: | :---: 
 | <h3> Parcial 2021-22 Ex. 1 </h3> | <img src="https://github.com/artHub-j/indi-opengl-full-course/assets/92806890/f6eaeabe-121e-484d-992d-9ed883041bee" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br />|
 
 | Exam | Initial Scene | Result | Interaction Mouse/Keys |
-| :---: | :---: | :---: | --- |
+| :---: | :---: | :---: | :---: |
 | <h3> 1 </h3> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/900d9c14-b744-46d1-bc32-ceb78f66c59a" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/b03c962b-55a1-49d4-822d-1a23055d9cd2" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)|
 | <h3> 2 </h3> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/dad9e9a7-e121-4e5a-a3e9-a6d60e0fbda4" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/9e0abff0-a5c5-45f5-a7ab-24d5282eb624" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)|
 | <h3> 3 </h3> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/d0663724-12b8-4e4d-b988-cc64693b0ea1" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/8763af79-d615-4c7d-8060-192bfadf999c" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
 | <h3> 4 </h3> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/beca2d5b-17ad-4231-801a-3c0b920e0d9a" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/7536d0ca-452c-4aa9-a5ec-a45e5373c02e" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
+| <h3> 5 (BONUS) </h3> | <img src="https://github.com/artHub-j/indi-opengl-full-course/assets/92806890/2b536bda-d8cd-4bce-9991-28a67c376671" width="360"/> | <img src="https://github.com/artHub-j/indi-opengl-full-course/assets/92806890/f98db771-1202-48da-b0e4-836af8e8f5e3" width="300"/> | (To do...)| 
 
 # Previous steps and generation of executables
 
