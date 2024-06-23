@@ -37,6 +37,11 @@ All solved OpenGL exams until 2023-24 + Solved Activities from 2022-23 course.
 | <h3> 4 </h3> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/beca2d5b-17ad-4231-801a-3c0b920e0d9a" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/7536d0ca-452c-4aa9-a5ec-a45e5373c02e" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br /> (To do...)| 
 | <h3> 5 (BONUS) </h3> | <img src="https://github.com/artHub-j/indi-opengl-full-course/assets/92806890/2b536bda-d8cd-4bce-9991-28a67c376671" width="360"/> | <img src="https://github.com/artHub-j/indi-opengl-full-course/assets/92806890/f98db771-1202-48da-b0e4-836af8e8f5e3" width="300"/> | (To do...)| 
 
+[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+
+[buymeacoffee]: https://www.buymeacoffee.com/artuaragonu
+[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
+
 # Previous steps and generation of executables
 
 <h3> 1. Installing Qt </h3>
