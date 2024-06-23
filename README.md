@@ -1,10 +1,10 @@
 # opengl-training
 
-| Activities | Description |
-| :---: | :--- |
-| 🗂 ACT1 | Basic Transformations in XY axis and shaders. |
-| 🗂 ACT2 | 3D model, Camera Transformations and Euler Angles in XYZ axis. |
-| 🗂 ACT3 | Phong Model, Multiple Light Focus and integration with Qt interfaces. |
+| Activities | Description | Link |
+| :---: | :---: | :---: |
+| 🗂 ACT1 | Basic Transformations in XY axis and shaders. | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/ACT1)|
+| 🗂 ACT2 | 3D model, Camera Transformations and Euler Angles in XYZ axis. | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/ACT2)|
+| 🗂 ACT3 | Phong Model, Multiple Light Focus and integration with Qt interfaces. | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/ACT3)|
 
 | Activity | Result | Interaction Mouse/Keys |
 | :---: | :---: | --- |
@@ -14,13 +14,13 @@
 
 #
 
-| Exams Folder | Year |
-| :---: | :--- |
-| 🗂 Exams/PARCIAL | Examen Parcial, Simulació ex. 1 OpenGL 2021-22 |
-| 🗂 Exams/EXAM1 | Examen OpenGL 2018-19 |
-| 🗂 Exams/EXAM2 | Examen OpenGL 2020-21 |
-| 🗂 Exams/EXAM3 | Examen OpenGL 2021-22 |
-| 🗂 Exams/EXAM4 | Examen OpenGL 2022-23 |
+| Exams Folder | Year | Link | 
+| :---: | :---: | :----------|
+| 🗂 Exams/PARCIAL | Examen Parcial, Simulació ex. 1 OpenGL 2021-22 | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/Exams/PARCIAL%20RESOLT%20%2B%20SIMULADOR%20(2021-22))|
+| 🗂 Exams/EXAM1 | Examen OpenGL 2018-19 | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/Exams/EXAM1%20(Examen%20OpenGL%202018-19))|
+| 🗂 Exams/EXAM2 | Examen OpenGL 2020-21 | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/Exams/EXAM2%20(Examen%20OpenGL%202020-21))|
+| 🗂 Exams/EXAM3 | Examen OpenGL 2021-22 | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/Exams/EXAM3%20(Examen%20OpenGL%202021-22))|
+| 🗂 Exams/EXAM4 | Examen OpenGL 2022-23 | [<img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/771e2532-56fb-4ee6-ae5c-5795eb752acd" width="40" height="40">](https://github.com/artHub-j/indi-opengl-full-course/tree/main/Exams/EXAM4%20(Examen%20OpenGL%202022-23))|
 
 | Exam | Output | Interaction Mouse/Keys |
 | :---: | :---: | :---: 
