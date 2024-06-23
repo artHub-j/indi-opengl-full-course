@@ -16,10 +16,15 @@
 
 | Exams Folder | Year |
 | :---: | :--- |
+| 🗂 Exams/PARCIAL | Examen Parcial, Simulació ex. 1 OpenGL 2021-22 |
 | 🗂 Exams/EXAM1 | Examen OpenGL 2018-19 |
 | 🗂 Exams/EXAM2 | Examen OpenGL 2020-21 |
 | 🗂 Exams/EXAM3 | Examen OpenGL 2021-22 |
 | 🗂 Exams/EXAM4 | Examen OpenGL 2022-23 |
+
+| Exam | Output | Interaction Mouse/Keys |
+| :---: | :---: | :---: 
+| <h3> Parcial 2021-22 Ex. 1 </h3> | <img src="https://github.com/artHub-j/indi-opengl-full-course/assets/92806890/f6eaeabe-121e-484d-992d-9ed883041bee" width="300"/> | <img src="https://github.com/artHub-j/opengl-training/assets/92806890/e9c75409-2c57-4e35-bbd8-d7db0ac92362" width="15"/>: Move Euler Angles Camera <br />|
 
 | Exam | Initial Scene | Result | Interaction Mouse/Keys |
 | :---: | :---: | :---: | --- |
